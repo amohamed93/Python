@@ -1,0 +1,10 @@
+# Backend
+backend/node_modules/
+backend/data.db*
+# Flutter
+mobile/build/
+mobile/.dart_tool/
+mobile/.flutter-plugins-dependencies
+mobile/.idea/
+*.iml
+.DS_Store
